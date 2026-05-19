@@ -40,7 +40,6 @@ for i in vetor1:
 
 print("Diferença:", diferenca)
 
-
 diferenca_simetrica = []
 
 for i in vetor1:
